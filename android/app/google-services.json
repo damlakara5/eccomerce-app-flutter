@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022408546395",
+    "project_id": "uni-project-login",
+    "storage_bucket": "uni-project-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022408546395:android:8d5aa1ef78e0ec8a08077e",
+        "android_client_info": {
+          "package_name": "com.example.damla_ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022408546395-br5bl27c0e9a0mbr2vce8kvg7m67ef1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALc4ijmc-eLjzpqbh5AWZP-wvX8PPSWAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022408546395-br5bl27c0e9a0mbr2vce8kvg7m67ef1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
